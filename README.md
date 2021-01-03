@@ -7,5 +7,5 @@ In 1760, Daniel Bernouilli published hisTrial of a new analysis of mortality cau
 Epidemiologists, applied mathematicians, data scientists and computer scientists are cooperating to collect, analyze, understand and predict the evolution and spread of the Covid-19 virus. In this context, it has been all the more interesting to study these current problems of modeling and risk calculation.
 
 
-See full report here: https://www.overleaf.com/read/vxzdnnwnvdst
+See full report here: https://drive.google.com/file/d/1hhBRIGombNdm6ZNQM4F7kZTusWzGj1Xu/view?usp=sharing
 
